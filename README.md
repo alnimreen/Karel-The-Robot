@@ -1,4 +1,4 @@
-## Karel-The-Robot
+## Karel-The-Robot👾🤖
 Divide a given map into 4 equal chambers – Do all the analysis to handle the special cases.
 i.e. maps that can&#39;t be divided into 4 equal chambers should be divided into the biggest
 possible number of equal chambers (3, 2, or 1).
